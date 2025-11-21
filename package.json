@@ -1,0 +1,36 @@
+{
+  "name": "personal-landing-page",
+  "version": "1.0.0",
+  "description": "A personal landing page showcasing skills, competencies, education, and experiences with a minimalist design and animations.",
+  "main": "src/main.tsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173",
+    "start": "npm run dev"
+  },
+  "keywords": [
+    "personal",
+    "landing page",
+    "portfolio",
+    "react",
+    "typescript"
+  ],
+  "author": "Luan Alves da Silva",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sn4k33s/Personal-landing-page.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.0",
+    "vite": "^2.0.0",
+    "eslint": "^7.0.0",
+    "eslint-plugin-react": "^7.0.0"
+  }
+}
