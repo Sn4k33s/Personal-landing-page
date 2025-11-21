@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Landing Page
 
 This project is a personal landing page designed to showcase skills, competencies, education, and experiences in a minimalist and visually appealing manner. The landing page features smooth animations to enhance user engagement and impress potential employers.
@@ -76,3 +77,6 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+=======
+# Personal-landing-page
+>>>>>>> 372b029c86c4d25ceb65627b9c809010fe803b69
